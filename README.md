@@ -1,1 +1,26 @@
-# multimodal_privacy
+# Privacy with Multi-Modal LLMs
+
+## Overview
+
+This project studies the controlling generation of private information with multi-modal LLMs.
+
+## Install
+
+To install necessary packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Basic Usage and Examples
+
+For hands-on examples on how to evaluate both LLM and multimodal models, please refer to our [example notebooks](./examples). Additionally, results evaluation scripts can be found in [dataset directory](./dataset)
+
+## Datasets
+
+Multimodal datasets and dataset generation scripts can be found in [dataset directory](./datasets).
+## Citation
+If you find this useful in your research, please consider citing:
+```bibtex
+TBD
+```
