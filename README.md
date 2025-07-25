@@ -18,7 +18,10 @@ For hands-on examples on how to evaluate both LLM and multimodal models, please 
 
 ## Datasets
 
-Multimodal datasets and dataset generation scripts can be found in [dataset directory](./datasets).
+Multimodal datasets and dataset generation scripts can be found in [dataset directory](./dataset).
+
+Note: all third-party content with their respective copyrights. These are used here as examples. You can replace them with your own content.
+
 ## Citation
 If you find this useful in your research, please consider citing:
 ```bibtex
