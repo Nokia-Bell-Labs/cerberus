@@ -1,8 +1,9 @@
-# Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models
+# Privacy-Leakage Mitigation in Vision Language Models
 [![arXiv: paper](https://img.shields.io/badge/arXiv-paper-red.svg)](https://arxiv.org/pdf/2509.25525?)
+[![dataet: released](https://img.shields.io/badge/dataset-released-green.svg)](##Datasets)
 ## Overview
 
-This is the official repository for our EACL Findings 2026 paper: Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models.
+This is the official repository for our [EACL](https://2026.eacl.org/) Findings 2026 paper: Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models.
 
 ## Install
 
