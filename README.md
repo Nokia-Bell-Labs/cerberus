@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project studies the controlling generation of private information with multi-modal LLMs.
+This is the official repository for our EACL Findings 2026 paper Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models.
 
 ## Install
 
