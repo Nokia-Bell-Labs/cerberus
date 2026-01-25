@@ -1,4 +1,4 @@
-# Privacy with Multi-Modal LLMs
+# Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models
 
 ## Overview
 
