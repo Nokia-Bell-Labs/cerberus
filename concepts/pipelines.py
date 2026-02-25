@@ -1,3 +1,7 @@
+# © 2026 Nokia
+# Licensed under the BSD 3-Clause Clear License
+# SPDX-License-Identifier: BSD-3-Clause-Clear
+
 from transformers import AutoModel, AutoModelForCausalLM
 from transformers.pipelines import PIPELINE_REGISTRY
 from .rep_reading_pipeline import RepReadingPipeline

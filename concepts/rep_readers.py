@@ -1,3 +1,7 @@
+# © 2026 Nokia
+# Licensed under the BSD 3-Clause Clear License
+# SPDX-License-Identifier: BSD-3-Clause-Clear
+
 from abc import ABC, abstractmethod
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
