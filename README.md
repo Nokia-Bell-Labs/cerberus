@@ -26,5 +26,11 @@ Note: all third-party content with their respective copyrights. These are used h
 ## Citation
 If you find this useful in your research, please consider citing:
 ```bibtex
-TBD
+@inproceedings{zhang2026defeating,
+  title={Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models},
+  author={Zhang, Boyang and Akkus, Istemi Ekin and Chen, Ruichuan and Dethise, Alice and Satzke, Klaus and Rimac, Ivica and Zhang, Yang},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2026},
+  pages={2952--2965},
+  year={2026}
+}
 ```
